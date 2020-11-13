@@ -1,4 +1,4 @@
-package com.jjd.data.structures.statck;
+package com.jjd.datastructures.statck;
 
 import java.util.Iterator;
 
